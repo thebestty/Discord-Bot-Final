@@ -1,5 +1,7 @@
 Name: WelcomeMaster
+
 Type: Welcome Bot
+
 Event Feature: Welcomes new users.
 
 Who will use it? New people to the server can use the bot and ask it questions about the different channels.
